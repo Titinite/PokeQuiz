@@ -1,6 +1,13 @@
 # Pokemon Quiz
 Ce projet Swift est une petite application iOS, un petit jeu qui reprend le concept de quiz sur les Pokémons. On retrouve différents modes de jeu possibles avec une API pour les données.
 
+ ## Table des Matières
+ 1. [Fonctionnalités](#fonctionnalités)
+ 2. [Installation](#installation)
+ 3. [Structure du Projet](#structure-du-projet)
+ 4. [Technologies](#technologies)
+ 5. [Auteurs](#auteurs)
+
 ## Fonctionnalités
 - **Quiz Classique** : mode de jeu classique qui consiste à retrouver les 20 Pokémons aléatoires générés avec 4 propositions de réponses : une note est affichée à la fin des 20 questions.
 
